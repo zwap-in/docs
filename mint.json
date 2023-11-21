@@ -32,6 +32,12 @@
     }
   ],
 
+"topAnchor": {
+    "name": "Home",
+    "icon": "building",
+    "url": "home"
+},
+
   "anchors": [
     {
       "name": "Documentation",
@@ -46,11 +52,12 @@
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://klaaryo.com/blog"
     }
   ],
   "navigation": [
-    {
+    { 
+      "group": "Essentials",
       "pages": ["introduction"]
     },
     {
