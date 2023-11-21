@@ -42,7 +42,7 @@
   "navigation": [
     { 
       "group": "Getting Started",
-      "pages": ["introduction"]
+      "pages": ["introduction", "quickstart"]
     },
     {
       "group": "Essentials",
